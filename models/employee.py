@@ -1,2 +1,2 @@
 class Employee:
-    print("Hi")
+    print("Hello")
